@@ -1,0 +1,10 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "C_Cpp.default.compilerPath": "c:\\Lib\\mingw64\\bin\\g++.exe",
+    "files.associations": {
+        "string": "cpp"
+    }
+}
